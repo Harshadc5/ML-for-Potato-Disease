@@ -22,7 +22,7 @@ If you use this research in your work, please cite it as:
 Chaudhari Harshad, (2023). Advanced machine learning technique to detect disease in potato. VIT Bhopal University.
 
 
-📌 **DOI:** [10.5281/zenodo.14986796)  
+📌 **DOI:** (10.5281/zenodo.14986796)
 📥 **Download Paper:** [Research_Paper_.pdf](./Research_Paper_.pdf)  
 
 ## 🌟 How to Contribute  
