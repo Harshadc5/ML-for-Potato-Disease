@@ -19,7 +19,7 @@ This research applies **Convolutional Neural Networks (CNNs)** for **potato dise
 
 ## 📝 Citation  
 If you use this research in your work, please cite it as:  
-
+Chaudhari Harshad, (2023). Advanced machine learning technique to detect disease in potato. VIT Bhopal University.
 
 
 
@@ -29,19 +29,4 @@ If you use this research in your work, please cite it as:
 2. **Star this repo** ⭐  
 3. Submit a **Pull Request** if you have improvements  
 
----
 
-## **🔹 Step 4: Add a DOI (Optional)**
-If you want a **Digital Object Identifier (DOI)** for your research:
-1. Link your **GitHub repository to Zenodo** ([Zenodo](https://zenodo.org/)).
-2. Create a **GitHub release**.
-3. Zenodo will generate a **DOI** for better academic recognition.
-
----
-
-## **🎯 Final Outcome**
-✅ **Your research is now public on GitHub.**  
-✅ **People can download, cite, and contribute.**  
-✅ **You can showcase your work on LinkedIn, ResearchGate, and Google Scholar.**  
-
-Would you like **assistance with formatting your repository README** or adding **GitHub badges**? 🚀
